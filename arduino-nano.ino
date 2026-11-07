@@ -1,3 +1,4 @@
+// Going to update it after finishing the actual PCB
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
 }
